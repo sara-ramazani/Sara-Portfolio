@@ -60,8 +60,8 @@ export default function About() {
 
         {/* Contact CTA */}
         <div className="bg-gradient-to-r from-purple-600 to-indigo-600 rounded-xl p-8 text-center text-white">
-          <h3 className="text-2xl font-bold mb-3">Let&apos;s Connect!</h3>
-          <p className="mb-6 text-purple-100">I&apos;m always open to discussing new opportunities and interesting projects.</p>
+          <h3 className="text-2xl font-bold mb-3">Let&apos;s Connect</h3>
+          <p className="mb-6 text-purple-100">I&apos;m always open to connecting, learning from others, and discussing computer science, projects, or academic opportunities.</p>
           <a
             href="/contact"
             className="inline-block px-6 py-3 bg-white text-purple-600 rounded-lg font-medium hover:bg-gray-100 transition-colors"

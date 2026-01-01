@@ -8,7 +8,7 @@ export default function Footer() {
           </p>
           <div className="flex space-x-6">
             <a 
-              href="https://github.com/jake" 
+              href="https://github.com/sara-ramazani" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-purple-600 transition-colors transform hover:scale-110"
@@ -19,7 +19,7 @@ export default function Footer() {
               </svg>
             </a>
             <a 
-              href="https://linkedin.com/in/jake" 
+              href="https://linkedin.com/in/sara-ramazani" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-purple-600 transition-colors transform hover:scale-110"
@@ -30,7 +30,7 @@ export default function Footer() {
               </svg>
             </a>
             <a 
-              href="mailto:jake@su.edu" 
+              href="mailto:sara.ramazani@example.com" 
               className="text-gray-600 hover:text-purple-600 transition-colors transform hover:scale-110"
               aria-label="Email"
             >
