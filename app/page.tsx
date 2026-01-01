@@ -59,7 +59,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">Tech Stack</h2>
           <div className="flex flex-wrap justify-center gap-4">
-            {['Python', 'C++', 'JavaScript', 'React', 'Node.js', 'Flask', 'PostgreSQL', 'Docker', 'Git'].map((tech) => (
+            {['Python', 'C++', 'JavaScript', 'HTML/CSS', 'Docker', 'Git'].map((tech) => (
               <span
                 key={tech}
                 className="px-6 py-3 bg-white border border-gray-200 rounded-full text-gray-700 font-medium hover:border-purple-300 hover:text-purple-600 transition-colors shadow-sm"
