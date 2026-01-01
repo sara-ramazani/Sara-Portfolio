@@ -11,10 +11,10 @@ export default function Home() {
               Hi, I&apos;m <span className="bg-gradient-to-r from-purple-600 to-indigo-600 bg-clip-text text-transparent">Sara Ramazani</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-4 max-w-3xl mx-auto leading-relaxed">
-              Computer Science Student | Full-Stack Developer | Problem Solver
+              Computer Science Student | Aspiring Software Developer | Problem Solver
             </p>
             <p className="text-lg text-gray-500 mb-12 max-w-2xl mx-auto">
-              Passionate about building innovative solutions and creating meaningful digital experiences
+              Focused on mastering computer science fundamentals through practice and project-based learning.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link
