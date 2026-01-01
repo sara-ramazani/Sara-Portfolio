@@ -14,7 +14,7 @@ export default function Skills() {
     },
     {
       category: "Developer Tools",
-      skills: ["Git", "Docker", "TravisCI", "Google Cloud Platform", "VS Code", "Visual Studio", "PyCharm", "IntelliJ", "Eclipse"]
+      skills: ["Git", "GitHub", "Docker", "Google Cloud Platform", "VS Code", "Visual Studio", "PyCharm"]
     }
   ];
 
