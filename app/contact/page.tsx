@@ -46,16 +46,16 @@ export default function Contact() {
           {/* Contact Information */}
           <div className="lg:col-span-1 space-y-6">
             <div className="bg-white rounded-xl p-6 shadow-md border border-gray-200">
-              <div className="flex items-center mb-4">
-                <div className="w-12 h-12 bg-purple-100 rounded-lg flex items-center justify-center mr-4">
+              <div className="flex items-start mb-4">
+                <div className="w-12 h-12 bg-purple-100 rounded-lg flex items-center justify-center mr-4 flex-shrink-0">
                   <svg className="w-6 h-6 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                   </svg>
                 </div>
-                <div>
-                  <h3 className="font-semibold text-gray-900">Email</h3>
-                  <a href="mailto:sara.ramazani@example.com" className="text-purple-600 hover:text-purple-700">
-                    sara.ramazani@example.com
+                <div className="min-w-0 flex-1">
+                  <h3 className="font-semibold text-gray-900 mb-1">Email</h3>
+                  <a href="mailto:sara.ramazani.dev@gmail.com" className="text-purple-600 hover:text-purple-700 break-words">
+                    sara.ramazani.dev@gmail.com
                   </a>
                 </div>
               </div>
@@ -77,7 +77,7 @@ export default function Contact() {
                     </svg>
                   </a>
                   <a
-                    href="https://linkedin.com/in/sara-ramazani"
+                    href="https://www.linkedin.com/in/sara-ramazani-72bb2a353/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-10 h-10 bg-gray-100 rounded-lg flex items-center justify-center hover:bg-purple-100 transition-colors"

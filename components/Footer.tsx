@@ -19,7 +19,7 @@ export default function Footer() {
               </svg>
             </a>
             <a 
-              href="https://linkedin.com/in/sara-ramazani" 
+              href="https://www.linkedin.com/in/sara-ramazani-72bb2a353/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-purple-600 transition-colors transform hover:scale-110"
@@ -30,7 +30,7 @@ export default function Footer() {
               </svg>
             </a>
             <a 
-              href="mailto:sara.ramazani@example.com" 
+              href="mailto:sara.ramazani.dev@gmail.com" 
               className="text-gray-600 hover:text-purple-600 transition-colors transform hover:scale-110"
               aria-label="Email"
             >
